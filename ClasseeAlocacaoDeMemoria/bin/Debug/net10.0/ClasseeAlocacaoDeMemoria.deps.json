@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ClasseeAlocacaoDeMemoria/1.0.0": {
+        "runtime": {
+          "ClasseeAlocacaoDeMemoria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasseeAlocacaoDeMemoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
