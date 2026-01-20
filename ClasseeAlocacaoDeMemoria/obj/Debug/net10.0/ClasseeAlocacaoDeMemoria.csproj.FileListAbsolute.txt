@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\bin\Debug\net10.0\ClasseeAlocacaoDeMemoria.exe
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\bin\Debug\net10.0\ClasseeAlocacaoDeMemoria.deps.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\bin\Debug\net10.0\ClasseeAlocacaoDeMemoria.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\bin\Debug\net10.0\ClasseeAlocacaoDeMemoria.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\bin\Debug\net10.0\ClasseeAlocacaoDeMemoria.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\refint\ClasseeAlocacaoDeMemoria.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ClasseeAlocacaoDeMemoria.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ClasseeAlocacaoDeMemoria\obj\Debug\net10.0\ref\ClasseeAlocacaoDeMemoria.dll
