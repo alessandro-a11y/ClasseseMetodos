@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\bin\Debug\net10.0\Objetos.exe
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\bin\Debug\net10.0\Objetos.deps.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\bin\Debug\net10.0\Objetos.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\bin\Debug\net10.0\Objetos.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\bin\Debug\net10.0\Objetos.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\refint\Objetos.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\Objetos.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Objetos\obj\Debug\net10.0\ref\Objetos.dll
