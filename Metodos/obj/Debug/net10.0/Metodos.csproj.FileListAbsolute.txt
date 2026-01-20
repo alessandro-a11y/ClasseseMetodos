@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\bin\Debug\net10.0\Metodos.exe
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\bin\Debug\net10.0\Metodos.deps.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\bin\Debug\net10.0\Metodos.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\bin\Debug\net10.0\Metodos.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\bin\Debug\net10.0\Metodos.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\refint\Metodos.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\Metodos.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Metodos\obj\Debug\net10.0\ref\Metodos.dll
