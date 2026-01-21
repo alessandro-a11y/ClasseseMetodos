@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\bin\Debug\net10.0\ProjetoCarroConsole.exe
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\bin\Debug\net10.0\ProjetoCarroConsole.deps.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\bin\Debug\net10.0\ProjetoCarroConsole.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\bin\Debug\net10.0\ProjetoCarroConsole.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\bin\Debug\net10.0\ProjetoCarroConsole.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\refint\ProjetoCarroConsole.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ProjetoCarroConsole.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\ProjetoCarroConsole\obj\Debug\net10.0\ref\ProjetoCarroConsole.dll
