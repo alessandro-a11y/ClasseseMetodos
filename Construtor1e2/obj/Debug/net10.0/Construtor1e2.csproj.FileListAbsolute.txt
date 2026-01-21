@@ -1,0 +1,15 @@
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\bin\Debug\net10.0\Construtor1e2.exe
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\bin\Debug\net10.0\Construtor1e2.deps.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\bin\Debug\net10.0\Construtor1e2.runtimeconfig.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\bin\Debug\net10.0\Construtor1e2.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\bin\Debug\net10.0\Construtor1e2.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.AssemblyInfoInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.AssemblyInfo.cs
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.csproj.CoreCompileInputs.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.sourcelink.json
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\refint\Construtor1e2.dll
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.pdb
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\Construtor1e2.genruntimeconfig.cache
+C:\Users\55879\OneDrive\Desktop\ClasseseMetodos\Construtor1e2\obj\Debug\net10.0\ref\Construtor1e2.dll
