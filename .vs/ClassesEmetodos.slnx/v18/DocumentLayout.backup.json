@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01F9AC68-182A-42F8-A019-0ADD7FE3E9D0}|ProjetoCarroConsole\\ProjetoCarroConsole.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\projetocarroconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F9AC68-182A-42F8-A019-0ADD7FE3E9D0}|ProjetoCarroConsole\\ProjetoCarroConsole.csproj|solutionrelative:projetocarroconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C15E7B91-647F-468F-BF06-DED89026FC78}|Construtor1e2\\Construtor1e2.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\construtor1e2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C15E7B91-647F-468F-BF06-DED89026FC78}|Construtor1e2\\Construtor1e2.csproj|solutionrelative:construtor1e2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBE4959-5294-429D-A6C1-8415B3243973}|Metodos\\Metodos.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\metodos\\metodoscomparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBE4959-5294-429D-A6C1-8415B3243973}|Metodos\\Metodos.csproj|solutionrelative:metodos\\metodoscomparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBE4959-5294-429D-A6C1-8415B3243973}|Metodos\\Metodos.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBE4959-5294-429D-A6C1-8415B3243973}|Metodos\\Metodos.csproj|solutionrelative:metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58454CF4-6C1F-4CEA-89B9-447596BD71E6}|ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\classeealocacaodememoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58454CF4-6C1F-4CEA-89B9-447596BD71E6}|ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj|solutionrelative:classeealocacaodememoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41332658-9A7E-4CBF-BDBF-7431CA0543A8}|Objetos\\Objetos.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41332658-9A7E-4CBF-BDBF-7431CA0543A8}|Objetos\\Objetos.csproj|solutionrelative:objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs",
-              "RelativeDocumentMoniker": "Construtor1e2\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs*",
-              "RelativeToolTip": "Construtor1e2\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ProjetoCarroConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCarroConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ProjetoCarroConsole\\Program.cs*",
+              "RelativeToolTip": "ProjetoCarroConsole\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T11:55:05.897Z",
+              "WhenOpened": "2026-01-21T14:16:07.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MetodosComParametros.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Metodos\\MetodosComParametros.cs",
-              "RelativeDocumentMoniker": "Metodos\\MetodosComParametros.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Metodos\\MetodosComParametros.cs",
-              "RelativeToolTip": "Metodos\\MetodosComParametros.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:45:49.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Metodos\\Program.cs",
-              "RelativeDocumentMoniker": "Metodos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Metodos\\Program.cs",
-              "RelativeToolTip": "Metodos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs",
+              "RelativeDocumentMoniker": "Construtor1e2\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs",
+              "RelativeToolTip": "Construtor1e2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:16:00.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Objetos\\Program.cs",
-              "RelativeDocumentMoniker": "Objetos\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Objetos\\Program.cs",
-              "RelativeToolTip": "Objetos\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T14:36:51.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\Program.cs",
-              "RelativeDocumentMoniker": "ClasseeAlocacaoDeMemoria\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\Program.cs",
-              "RelativeToolTip": "ClasseeAlocacaoDeMemoria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:23:35.469Z",
+              "WhenOpened": "2026-01-21T11:55:05.897Z",
               "EditorCaption": ""
             }
           ]
