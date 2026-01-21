@@ -4,4 +4,5 @@
   <Project Path="Construtor1e2/Construtor1e2.csproj" Id="c15e7b91-647f-468f-bf06-ded89026fc78" />
   <Project Path="Metodos/Metodos.csproj" Id="3ebe4959-5294-429d-a6c1-8415b3243973" />
   <Project Path="Objetos/Objetos.csproj" Id="41332658-9a7e-4cbf-bdbf-7431ca0543a8" />
+  <Project Path="ProjetoCarroConsole/ProjetoCarroConsole.csproj" Id="01f9ac68-182a-42f8-a019-0add7fe3e9d0" />
 </Solution>
