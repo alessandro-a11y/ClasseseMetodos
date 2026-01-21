@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01F9AC68-182A-42F8-A019-0ADD7FE3E9D0}|ProjetoCarroConsole\\ProjetoCarroConsole.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\projetocarroconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F9AC68-182A-42F8-A019-0ADD7FE3E9D0}|ProjetoCarroConsole\\ProjetoCarroConsole.csproj|solutionrelative:projetocarroconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C15E7B91-647F-468F-BF06-DED89026FC78}|Construtor1e2\\Construtor1e2.csproj|c:\\users\\55879\\onedrive\\desktop\\classesemetodos\\construtor1e2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C15E7B91-647F-468F-BF06-DED89026FC78}|Construtor1e2\\Construtor1e2.csproj|solutionrelative:construtor1e2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ProjetoCarroConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCarroConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ProjetoCarroConsole\\Program.cs*",
+              "RelativeToolTip": "ProjetoCarroConsole\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:16:07.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs",
               "RelativeDocumentMoniker": "Construtor1e2\\Program.cs",
-              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs*",
-              "RelativeToolTip": "Construtor1e2\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Program.cs",
+              "RelativeToolTip": "Construtor1e2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T11:55:05.897Z",
               "EditorCaption": ""
