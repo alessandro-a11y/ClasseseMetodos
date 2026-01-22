@@ -26,7 +26,7 @@ namespace Metodos
 
             Car chevrolet = new Car("Sedan", "Chevrolet", "Onix", 2016, 110);
             Car ford = new Car("SUV", "Ford", "EcoSport", 2018, 130);
-            // chamar o metodo velocidade maxima
+            
            
 
             Console.WriteLine(
@@ -44,11 +44,16 @@ namespace Metodos
                 $"Ano: {ford.Year}\n" +
                 $"Potência: {ford.Power}\n"
                 );
-            
+            // chamar o metodo velocidade maxima
             chevrolet.Accelerating(chevrolet.Mark);
             ford.Accelerating(ford.Mark);
-            Console.WriteLine($"\nA velocidade máxima do Onix é : {chevrolet.VelocidadeMaxima(chevrolet.Power)}km/h");
-            Console.WriteLine($"\nA velocidade máxima do EcoSport é : {ford.VelocidadeMaxima(ford.Power)}km/h");
+            Console.WriteLine($"\nA velocidade máxima do Onix é " +
+                $": {chevrolet.VelocidadeMaxima(chevrolet.Power)}km/h"
+                );
+
+            Console.WriteLine($"\nA velocidade máxima do EcoSport é " +
+                $": {ford.VelocidadeMaxima(ford.Power)}km/h"
+                );
         }
     }
     public class Car
@@ -58,8 +63,8 @@ namespace Metodos
         public string? Mark;
         public int Year;
         public int Power;
-        //Crie um construtor que permita criar um carro somente usando os atributos : Modelo e Montadora (não 
-        //use a palavra-chave this)
+        //Criando um construtor que só permite criar um carro somente usando os atributos :
+        //Modelo e Montadora 
         public int VelocidadeMaxima(int potencia)
         {
             double velMax = potencia * 1.75;
