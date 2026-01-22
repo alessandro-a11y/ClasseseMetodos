@@ -5,5 +5,7 @@
   <Project Path="MetodoComReturn/MetodoComReturn.csproj" Id="f210ce9a-113b-413a-8cc0-3707572e5080" />
   <Project Path="Metodos/Metodos.csproj" Id="3ebe4959-5294-429d-a6c1-8415b3243973" />
   <Project Path="Objetos/Objetos.csproj" Id="41332658-9a7e-4cbf-bdbf-7431ca0543a8" />
+  <Project Path="ProjetoCadastro/ProjetoCadastro.csproj" Id="cc340b67-fce2-432d-8a0d-9ac4144e7ca6" />
   <Project Path="ProjetoCarroConsole/ProjetoCarroConsole.csproj" Id="01f9ac68-182a-42f8-a019-0add7fe3e9d0" />
+  <Project Path="Sobrecargas/Sobrecargas.csproj" Id="4b8d5dd0-6eb2-45f5-9f2b-771af9eb51fb" />
 </Solution>
