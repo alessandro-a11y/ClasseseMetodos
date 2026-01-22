@@ -11,3 +11,14 @@
 .vs/ClassesEmetodos.slnx/FileContentIndex/8c64c40f-2c88-4084-9673-792c16ac37cf.vsidx
 .vs/ClassesEmetodos.slnx/FileContentIndex/b687da38-c1f2-40e7-a5fd-5246be2817d0.vsidx
 .vs/ClassesEmetodos.slnx/FileContentIndex/a4e22e5c-dd76-4de8-9da7-3a9bc1cb94f3.vsidx
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.dll
+*.cache
+*.nuget/
+
