@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClasseeAlocacaoDeMemoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc6484266610c648526003a7cad2639809ba25bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cc20d12da7c0d6b9be364049b035c94361cd929")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClasseeAlocacaoDeMemoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClasseeAlocacaoDeMemoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
