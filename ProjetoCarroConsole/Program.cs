@@ -1,61 +1,56 @@
 ﻿using System;
-using System.Runtime.Intrinsics.X86;
+
 namespace Metodos
 {
-    internal class Program 
+    internal class Program
     {
         static void Main(string[] args)
         {
-
-
-            //Car chevrolet = new Car();
-            //chevrolet.Model = "Sedan";
-            //chevrolet.MarManufacturer = "Chevrolet";
-            //chevrolet.Mark = "Onix";
-            //chevrolet.Year = 2016;
-            //chevrolet.Power = 110;
-
-
-
-            //Car ford = new Car();
-            //ford.Model = "SUV";
-            //ford.MarManufacturer = "Ford";
-            //ford.Mark = "EcoSport";
-            //ford.Year = 2018;
-            //ford.Power = 130;
-
             Car chevrolet = new Car("Sedan", "Chevrolet", "Onix", 2016, 110);
             Car ford = new Car("SUV", "Ford", "EcoSport", 2018, 130);
-            
-           
 
-            Console.WriteLine(
-                $"Modelo: {chevrolet.Model}\n" +
-                $"Montadora: {chevrolet.MarManufacturer}\n" +
-                $"Marca: {chevrolet.Mark}\n" +
-                $"Ano: {chevrolet.Year}\n" +
-                $"Potência: {chevrolet.Power}\n"
-                );
-            
-            Console.WriteLine($"" +
-                $"Modelo: {ford.Model}\n" +
-                $"Montadora: {ford.MarManufacturer}\n" +
-                $"Marca: {ford.Mark}\n" +
-                $"Ano: {ford.Year}\n" +
-                $"Potência: {ford.Power}\n"
-                );
-            // chamar o metodo velocidade maxima
+            int potenciaAtual = chevrolet.Power;
+
+            ExibirDados(chevrolet);
+            ExibirDados(ford);
+
             chevrolet.Accelerating(chevrolet.Mark);
             ford.Accelerating(ford.Mark);
-            Console.WriteLine($"\nA velocidade máxima do Onix é " +
-                $": {chevrolet.VelocidadeMaxima(chevrolet.Power)}km/h"
-                );
 
-            Console.WriteLine($"\nA velocidade máxima do EcoSport é " +
-                $": {ford.VelocidadeMaxima(ford.Power)}km/h"
-                );
+            Console.WriteLine(
+                $"\nVelocidade máxima do Onix: " +
+                $"{chevrolet.VelocidadeMaxima(chevrolet.Power)} km/h"
+            );
+
+            Console.WriteLine(
+                $"\nVelocidade máxima do EcoSport: " +
+                $"{ford.VelocidadeMaxima(ford.Power)} km/h"
+            );
+
+            chevrolet.AumentarPotencia(chevrolet.Power);
+            ford.AumentarPotencia(ford.Power);
+
+            Console.WriteLine($"\nPotência do Onix aumentada: {chevrolet.Power}");
+            Console.WriteLine($"Potência do EcoSport aumentada: {ford.Power}");
+
+            int novaPotencia = chevrolet.AumentarPotencia(ref potenciaAtual);
+
+            Console.WriteLine($"\nPotência após método por referência: {potenciaAtual}");
+            Console.WriteLine($"Valor retornado pelo método: {novaPotencia}");
+        }
+
+        static void ExibirDados(Car car)
+        {
+            Console.WriteLine(
+                $"Modelo: {car.Model}\n" +
+                $"Montadora: {car.MarManufacturer}\n" +
+                $"Marca: {car.Mark}\n" +
+                $"Ano: {car.Year}\n" +
+                $"Potência: {car.Power}\n"
+            );
         }
     }
+
     public class Car
     {
         public string? Model;
@@ -63,19 +58,15 @@ namespace Metodos
         public string? Mark;
         public int Year;
         public int Power;
-        //Criando um construtor que só permite criar um carro somente usando os atributos :
-        //Modelo e Montadora 
-        public int VelocidadeMaxima(int potencia)
-        {
-            double velMax = potencia * 1.75;
-            return (int)velMax;
-        }
+
+        public Car() { }
+
         public Car(string model, string manufacturer)
         {
             Model = model;
             MarManufacturer = manufacturer;
         }
-        // Construtor
+
         public Car(string model, string manufacturer, string mark, int year, int power)
         {
             Model = model;
@@ -85,12 +76,25 @@ namespace Metodos
             Power = power;
         }
 
-
-        public void Accelerating(string Mark)
+        public void AumentarPotencia(int potencia)
         {
-            Console.WriteLine($"Acelerando o meu {Mark}");
+            Power = potencia + 3;
         }
 
+        public int AumentarPotencia(ref int potencia)
+        {
+            potencia += 5;
+            return potencia;
+        }
 
+        public int VelocidadeMaxima(int potencia)
+        {
+            return (int)(potencia * 1.75);
+        }
+
+        public void Accelerating(string mark)
+        {
+            Console.WriteLine($"Acelerando o meu {mark}");
+        }
     }
 }
