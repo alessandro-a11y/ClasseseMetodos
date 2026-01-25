@@ -37,6 +37,16 @@ namespace Metodos
 
             Console.WriteLine($"\nPotência após método por referência: {potenciaAtual}");
             Console.WriteLine($"Valor retornado pelo método: {novaPotencia}");
+
+            Car novavelocidade = new Car();
+            novavelocidade.AumentarPotenciaVelocidade(chevrolet.Power, out int pot, out int vel);
+            Console.WriteLine($"\nNova Potência do Onix via out: {pot}");
+            Console.WriteLine($"Nova Velocidade do Onix via out: {vel} km/h");
+
+            novavelocidade.AumentarPotenciaVelocidade(ford.Power, out int potFord, out int velFord);
+            Console.WriteLine($"\nNova Potência do EcoSport via out: {potFord}");
+            Console.WriteLine($"Nova Velocidade do EcoSport via out: {velFord} km/h");
+
         }
 
         static void ExibirDados(Car car)
@@ -75,10 +85,14 @@ namespace Metodos
             Year = year;
             Power = power;
         }
-
+        public void AumentarPotenciaVelocidade(int potencia, out int novaPotencia, out int novaVelocidade)
+        {
+            novaPotencia = potencia + 10;                                                               
+            novaVelocidade = (int)(novaPotencia * 1.75);
+        }
         public void AumentarPotencia(int potencia)
         {
-            Power = potencia + 3;
+            Power = potencia + 3;                                                           
         }
 
         public int AumentarPotencia(ref int potencia)
