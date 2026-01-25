@@ -9,14 +9,14 @@ namespace PassandroArgumentosporValoresERef
             Console.WriteLine($"\nValor do antes de criar o objeto: {x}");
 
             Calculo calc = new Calculo();
-            calc.Dobrar(x);
+            calc.Dobrar( ref x);
 
             Console.WriteLine($"\nValor do parâmetro x após chamar o método Dobrar: {x}");
         }
     }
     public class Calculo
     {
-        public void Dobrar(int y) 
+        public void Dobrar(ref int y) 
         {
             y *= 2;
             Console.WriteLine($"\nValor do paraâmetro y no método dobrar: {y}");
