@@ -3,7 +3,7 @@
 // Namespace do projeto (organização do código)
 namespace ProjetoCadastro
 {
-    internal class Program
+    internal class Cadastro
     {
         static void Main(string[] args)
         {
@@ -68,7 +68,7 @@ namespace ProjetoCadastro
         public Cliente Registrar(Cliente cliente)
         {
             // Altera a renda do cliente (regra de negócio)
-            cliente.Renda = 5500;
+            cliente.Renda = 0;
             return cliente;
         }
 
