@@ -18,6 +18,14 @@ namespace PassandroArgumentosporValoresERef
             Console.WriteLine($"perímetro da circunferencia: {circunferencia}");
             Console.WriteLine($"área do círculo: {area}");
 
+           for (circunferencia = 1; circunferencia <= 100; circunferencia += 10)
+            {
+                double r = circunferencia / (2 * Math.PI);
+                double a;
+                circulo.CalculaAreaPerimetro(r, out a);
+                Console.WriteLine($"\nRaio: {r:F2} - Área: {a:F2}");
+            }
+
         }
     }
     public class Circulo
