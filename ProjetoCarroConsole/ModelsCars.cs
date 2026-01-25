@@ -2,7 +2,7 @@
 
 namespace Metodos
 {
-    internal class Program
+    internal class ModelsCars
     {
         static void Main(string[] args)
         {
