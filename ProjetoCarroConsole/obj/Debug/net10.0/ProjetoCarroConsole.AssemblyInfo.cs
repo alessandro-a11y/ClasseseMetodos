@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoCarroConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab032c1b72920dec0fcc14dc1bf8caa1bafe094")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bba1337d61cffd05332ae97bf88afd64c6ff2e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoCarroConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoCarroConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
