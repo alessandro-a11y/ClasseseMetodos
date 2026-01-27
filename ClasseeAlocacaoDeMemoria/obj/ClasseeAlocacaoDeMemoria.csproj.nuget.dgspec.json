@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj": {}
+    "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj": {
+    "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj",
+        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj",
         "projectName": "ClasseeAlocacaoDeMemoria",
-        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj",
+        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\ClasseeAlocacaoDeMemoria\\ClasseeAlocacaoDeMemoria.csproj",
         "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\ClasseeAlocacaoDeMemoria\\obj\\",
         "projectStyle": "PackageReference",
