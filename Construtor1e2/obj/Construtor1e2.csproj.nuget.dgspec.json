@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Construtor1e2.csproj": {}
+    "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\Construtor1e2\\Construtor1e2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Construtor1e2.csproj": {
+    "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\Construtor1e2\\Construtor1e2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Construtor1e2.csproj",
+        "projectUniqueName": "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\Construtor1e2\\Construtor1e2.csproj",
         "projectName": "Construtor1e2",
-        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\Construtor1e2.csproj",
+        "projectPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClassesEmetodos\\Construtor1e2\\Construtor1e2.csproj",
         "packagesPath": "C:\\Users\\55879\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\55879\\OneDrive\\Desktop\\ClasseseMetodos\\Construtor1e2\\obj\\",
         "projectStyle": "PackageReference",
