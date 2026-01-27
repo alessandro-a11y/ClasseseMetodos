@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ArgumentosNomeados/ArgumentosNomeados.csproj" Id="d56a1f7c-aaa3-4a0c-a396-55f49fc762b6" />
   <Project Path="ClasseeAlocacaoDeMemoria/ClasseeAlocacaoDeMemoria.csproj" Id="58454cf4-6c1f-4cea-89b9-447596bd71e6" />
   <Project Path="ClassesEmetodos/ClassesEmetodos.csproj" />
   <Project Path="Construtor1e2/Construtor1e2.csproj" Id="c15e7b91-647f-468f-bf06-ded89026fc78" />
