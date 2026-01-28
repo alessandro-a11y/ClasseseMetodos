@@ -5,15 +5,65 @@ namespace ParametrosOpcionais
     {
         static void Main(string[] args)
         {
-            Email email = new Email();
-            email.Enviar("figueiredoalessandro73@gmail.com");
+            Carro carro = new Carro();
+            carro.ExibirInfo(ano: 2020, potencia: 150);
         }
     }
-    public class Email
+    public class Carro
     {
-        public void Enviar(string destino, string titulo = "Reunião", string assunto = "avalição técnica")
+        public string Modelo;
+        public string Montadora;
+        public string Marca;
+        public int Potencia;
+        public int Ano;
+
+        public void ExibirInfo(string modelo = "Modelo não informado", string montadora = "Montadora não informada", string marca = "Marca não informada", int potencia = 0, int ano = 0)
         {
-            Console.WriteLine($"{destino}\t{titulo}\t {assunto}");
+            Console.WriteLine($"Modelo: {modelo}\nMontadora: {montadora}\nMarca: {marca}\nPotência: {potencia}cv\nAno: {ano}");
         }
+
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//using System;
+//namespace ParametrosOpcionais
+//{
+//    internal class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Email email = new Email();
+//            email.Enviar("figueiredoalessandro73@gmail.com");
+//        }
+//    }
+//    public class Email
+//    {
+//        public void Enviar(string destino, string titulo = "Reunião", string assunto = "avalição técnica")
+//        {
+//            Console.WriteLine($"{destino}\t{titulo}\t {assunto}");
+//        }
+//    }
+//}
