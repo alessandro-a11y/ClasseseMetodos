@@ -51,6 +51,11 @@ namespace Metodos
             Console.WriteLine($"\nNova potência do EcoSport: {novaPotenciaFord}");
             Console.WriteLine($"Nova velocidade do EcoSport: {novaVelocidadeford} km/h");
 
+            Car.ObterValorIPVA();
+            Console.WriteLine($"\nValor do IPVA (Onix): R$ {Car.ValorIpva}%");
+            Console.WriteLine($"\nValor do IPVA (Ecosport): R$ {Car.ValorIpva}%");
+
+
 
         }
 
@@ -89,6 +94,12 @@ namespace Metodos
             Mark = mark;
             Year = year;
             Power = power;
+        }
+        public static double ValorIpva;
+
+        public static void ObterValorIPVA()
+        {
+            ValorIpva = 4.0;
         }
         public int AumentarPotenciaVelocidade(int potencia, out double velocidade)
         {
