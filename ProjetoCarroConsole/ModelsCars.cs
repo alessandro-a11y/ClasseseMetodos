@@ -76,7 +76,31 @@ namespace Metodos
         public string? Model;
         public string? MarManufacturer;
         public string? Mark;
-        public int Year;
+        //w- Substituir na classe Carro o campo Ano por uma propriedade de mesmo nome e mesmo tipo.
+        private int _year;
+
+        public int Year
+        {
+            get
+            {
+                return _year;
+            }
+            set
+            {
+                if (value < 2000)
+                {
+                    _year = 2000;
+                }
+                else if (value > 2022)
+                {
+                    _year = 2022;
+                }
+                else
+                {
+                    _year = value;
+                }
+            }
+        }
         public int Power;
 
         public Car() { }
