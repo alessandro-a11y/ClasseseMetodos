@@ -12,6 +12,7 @@
   <Project Path="PassandroArgumentosporValoresERef/PassandroArgumentosporValoresERef.csproj" Id="d238e3cf-cb2c-4220-b57f-441ca9df9dd0" />
   <Project Path="ProjetoCadastro/ProjetoCadastro.csproj" Id="cc340b67-fce2-432d-8a0d-9ac4144e7ca6" />
   <Project Path="ProjetoCarroConsole/ProjetoCarroConsole.csproj" Id="01f9ac68-182a-42f8-a019-0add7fe3e9d0" />
+  <Project Path="ProjetosClienteComStructs/ProjetosClienteComStructs.csproj" Id="5e8db71b-b96c-4ef5-b653-156545dcc5f8" />
   <Project Path="Prorpiedades/Propriedades.csproj" Id="f03342bf-e136-46b7-8e67-4974ebd9d386" />
   <Project Path="Sobrecargas/Sobrecargas.csproj" Id="4b8d5dd0-6eb2-45f5-9f2b-771af9eb51fb" />
   <Project Path="Structs/Structs.csproj" Id="49005055-0656-44aa-be0d-ec4b88b3dcf6" />
